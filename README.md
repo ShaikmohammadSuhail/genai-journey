@@ -17,3 +17,46 @@ Follow the complete journey on Medium: [Link to your Medium profile]
 2. Coming soon...
 
 ## 🗂️ Repository Structure
+├── daily-logs/ # Daily learning notes
+├── code/ # Practice code and projects
+├── resources/ # Tutorials, articles, bookmarks
+└── reflections/ # Weekly reflection notes
+
+## 🎓 Learning Path
+
+### Phase 1: Before the Cohort (Oct 20 - Nov 6)
+- [ ] Python fundamentals refresh
+- [ ] GenAI basics (LLMs, prompting, APIs)
+- [ ] GitHub workflow setup
+- [ ] First AI project
+
+### Phase 2: In the Cohort (Nov 7 onwards)
+- [ ] Daily cohort assignments
+- [ ] Build real-world AI projects
+- [ ] Master prompt engineering
+- [ ] Create portfolio pieces
+
+### Phase 3: Beyond the Cohort
+- [ ] Job applications
+- [ ] Open-source contributions
+- [ ] Continue building
+
+## 📊 Progress Tracker
+- **Days Logged:** 0
+- **Code Commits:** 0
+- **Projects Built:** 0
+- **Blog Posts Published:** 1
+
+## 🔗 Connect
+- Medium: [Your Medium link]
+- LinkedIn: [Your LinkedIn]
+- Twitter/X: [Your handle]
+
+## 💭 Mantra
+यद् भावं तद् भवति (Yad Bhavam Tad Bhavati)
+"You become what you think."
+
+---
+
+**Last Updated:** October 19, 2025
+
