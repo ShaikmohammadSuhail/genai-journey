@@ -1,4 +1,3 @@
-# genai-journey
 # My GenAI Journey: From Scrolling to Scrambling
 
 ## 🎯 Mission
