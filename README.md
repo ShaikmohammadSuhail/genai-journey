@@ -51,9 +51,8 @@ Follow the complete journey on Medium: [Link to your Medium profile]
 - **Blog Posts Published:** 1
 
 ## 🔗 Connect
-- Medium: [Your Medium link]
-- LinkedIn: [Your LinkedIn]
-- Twitter/X: [Your handle]
+- Medium: https://medium.com/@shaikmohammadsuhail35
+- LinkedIn: https://www.linkedin.com/in/shaik-mohammad-suhail-a52705208/
 
 ## 💭 Mantra
 यद् भावं तद् भवति (Yad Bhavam Tad Bhavati)
