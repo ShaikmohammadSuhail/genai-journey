@@ -18,8 +18,11 @@ Follow the complete journey on Medium: [Link to your Medium profile]
 
 ## 🗂️ Repository Structure
 ├── daily-logs/ # Daily learning notes
+
 ├── code/ # Practice code and projects
+
 ├── resources/ # Tutorials, articles, bookmarks
+
 └── reflections/ # Weekly reflection notes
 
 ## 🎓 Learning Path
